@@ -1,3 +1,7 @@
 .carousel-slider {
-    height: 500px !important;
+    height: 600px !important;
+}
+
+#nosotros {
+    padding: 5em;
 }
