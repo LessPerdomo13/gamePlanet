@@ -33,23 +33,6 @@
     font-size: 1.5vw;
     color: #f13340;
 }
-
-
-#uno{
-  background-image: url(../img-Catalogo/mario-background.jpg);
-  background-size: cover;
-  width: 100%;
-}
-#dos{
-  background-image: url(../img-Catalogo/ps4-background.jpg);
-  background-size: cover;
-  width: 100%;
-}
-#tres{
-  background-image: url(../img-Catalogo/xbox-background.jpg);
-  background-size: cover;
-  width: 100%;
-
 .modal {
    display: none;
    position: fixed;
@@ -120,10 +103,24 @@
    cursor: pointer;
 }
 
-/*Las reglas @ o at-rules, sólo son una opción más avanzada de css*/
+/*Las reglas @ o at-rules, s�lo son una opci�n m�s avanzada de css*/
 @media only screen and (max-width: 700px){
    .modal-content {
        width: 100%;
    }
-
 }
+
+#uno{
+  background-image: url(../img-Catalogo/mario-background.jpg);
+  background-size: cover;
+  width: 100%;
+}
+#dos{
+  background-image: url(../img-Catalogo/ps4-background.jpg);
+  background-size: cover;
+  width: 100%;
+}
+#tres{
+  background-image: url(../img-Catalogo/xbox-background.jpg);
+  background-size: cover;
+  width: 100%;
