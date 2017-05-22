@@ -33,6 +33,23 @@
     font-size: 1.5vw;
     color: #f13340;
 }
+
+
+#uno{
+  background-image: url(../img-Catalogo/mario-background.jpg);
+  background-size: cover;
+  width: 100%;
+}
+#dos{
+  background-image: url(../img-Catalogo/ps4-background.jpg);
+  background-size: cover;
+  width: 100%;
+}
+#tres{
+  background-image: url(../img-Catalogo/xbox-background.jpg);
+  background-size: cover;
+  width: 100%;
+
 .modal {
    display: none;
    position: fixed;
@@ -108,4 +125,5 @@
    .modal-content {
        width: 100%;
    }
+
 }
